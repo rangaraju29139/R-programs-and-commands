@@ -1,0 +1,11 @@
+-------------------------------
+q()  --to quit the command line
+help() --- the get the help from
+help.start()  - to open and html file containing help modules
+find()   -- shows whats in the package
+demo()   ---shows the syntax of the particular input
+?read.table  == ? gives the syntax and implementation of the particular command
+help.search("input")  --- help the relavant topics or command to the given input
+
+
+
